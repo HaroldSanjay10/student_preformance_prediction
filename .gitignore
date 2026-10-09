@@ -1,0 +1,8 @@
+.env
+.last_good_tag
+__pycache__/
+.pytest_cache/
+backend/ml/artifacts/
+backend/ml/data/
+frontend/node_modules/
+frontend/dist/
